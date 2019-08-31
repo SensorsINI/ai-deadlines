@@ -385,3 +385,14 @@
   place: Snowmass village, Colorado, USA
   sub: CV
   note: '<b>NOTE</b>: First round submission deadline.'
+  
+  - title: AICAS
+  year: 2020
+  id: aicas20
+  link: https://aicas2020.eu/
+  deadline: '2019-09-30 23:59:59'
+  timezone: UTC+1
+  date: March 23-25, 2020
+  place: Genoa, Italy
+  sub: CV
+  note: '<b>NOTE</b>: Final paper deadline 23 Dec'
